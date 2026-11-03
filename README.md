@@ -19,6 +19,7 @@
 
 # 2. GitHub Link: 
 
+https://leourq.github.io/comp484-hw9-lzu/
 
 # 3. Screenshot: 
 
