@@ -1,0 +1,40 @@
+/* general page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    max-width: 850px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+/* main heading */
+h1 {
+    text-align: center;
+    color: #222;
+}
+
+
+
+/* extra credit section */
+
+/* section cards */
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+/* section headings */
+h2 {
+    color: #245a81;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+/* paragraph spacing */
+p {
+    line-height: 1.6;
+}
